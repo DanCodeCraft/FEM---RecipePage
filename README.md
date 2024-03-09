@@ -16,12 +16,12 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./recipePageScreenshot.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/DanCodeCraft/FEM-RecipePage)
+- Live Site URL: [Add live site URL here](https://fem-recipe-page-jet.vercel.app/)
 
 ### Built with
 
@@ -31,8 +31,6 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 - CSS Grid
 - Media Queries
 - Desktop-first workflow
-
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
 
 ### What I learned
 
